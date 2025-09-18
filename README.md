@@ -14,7 +14,7 @@
 8.	Stop the program.
    
 # PROGRAM
-
+```
 #include <stdio.h>
 #include <ctype.h>
 #include <string.h>
@@ -76,6 +76,7 @@ int main() {
 
 	return 0;
 }
+```
 
 # OUTPUT
 <img width="511" height="338" alt="Screenshot 2025-09-17 154108" src="https://github.com/user-attachments/assets/cf7f040b-e64e-4525-ab8c-e0b5a5cca71d" />
